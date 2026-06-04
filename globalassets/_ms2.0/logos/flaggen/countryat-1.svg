@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 28 20">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        mask: url(#mask);
+      }
+
+      .st1 {
+        stroke: #fff;
+        stroke-width: .5px;
+      }
+
+      .st3 {
+        fill: #f64253;
+        fill-rule: evenodd;
+      }
+
+      .st4 {
+        fill: #495057;
+      }
+    </style>
+    <mask id="mask" x="0" y="0" width="28" height="20" maskUnits="userSpaceOnUse">
+      <g id="mask0_9958_8578">
+        <rect class="st1" x=".25" y=".25" width="27.5" height="19.5" rx="1.75" ry="1.75"/>
+      </g>
+    </mask>
+  </defs>
+  <g>
+    <rect class="st0" x=".12" y=".13" width="27.75" height="19.75" rx="1.87" ry="1.87"/>
+    <path class="st4" d="M26,.25c.97,0,1.75.78,1.75,1.75v16c0,.97-.78,1.75-1.75,1.75H2c-.97,0-1.75-.78-1.75-1.75V2C.25,1.03,1.03.25,2,.25h24M26,0H2C.9,0,0,.9,0,2v16c0,1.1.9,2,2,2h24c1.1,0,2-.9,2-2V2c0-1.1-.9-2-2-2h0Z"/>
+  </g>
+  <g class="st2">
+    <g>
+      <path class="st3" d="M0,6.67h28V0H0v6.67Z"/>
+      <path class="st3" d="M0,20h28v-6.67H0v6.67Z"/>
+    </g>
+  </g>
+  <path class="st4" d="M26,.25c.97,0,1.75.78,1.75,1.75v16c0,.97-.78,1.75-1.75,1.75H2c-.97,0-1.75-.78-1.75-1.75V2C.25,1.03,1.03.25,2,.25h24M26,0H2C.9,0,0,.9,0,2v16c0,1.1.9,2,2,2h24c1.1,0,2-.9,2-2V2c0-1.1-.9-2-2-2h0Z"/>
+</svg>
